@@ -88,7 +88,8 @@ Our primary books are available through the library course reserves or as open a
 
 - Hayles, N. Katherine. *Electronic Literature: New Horizons for the Literary.* [Via UCF Library](https://ebookcentral.proquest.com/lib/ucf/detail.action?docID=3441028)
 - Ensslin, Astrid. *Literary Gaming.* [Via UCF Library](https://ebookcentral.proquest.com/lib/ucf/detail.action?docID=3339803)
-- Chang, Alenda. *Playing Nature: Ecology in Video Games.* (Link coming soon)
+- Chang, Alenda. *Playing Nature: Ecology in Video Games.* [Via UCF Library](
+https://muse-jhu-edu.eu1.proxy.openathens.net/book/72358)
 - Gray, Kishonna L. *Intersectional Tech: Black Users in Digital Gaming.* [Via UCF Library](https://muse-jhu-edu.eu1.proxy.openathens.net/book/77262)
 
 Supplementary recommended readings are included in each module to guide work towards the final research paper, while providing additional entry points into each form and genre under examination. We will typically look at one to two primary texts a week alongside supplemental secondary readings, though this may vary depending on the length of primary texts.
@@ -245,22 +246,33 @@ This course uses an asynchronous format, and relies upon students to complete al
 ### Week Eleven: Players - Gamers (Opens Monday, November 6)
 
 - *Intersectional Tech*: First Half
+- [Dead Island - Playthrough](https://www.youtube.com/watch?v=7Yi7rIrc93U)
+- [The Walking Dead - Playthrough](https://www.youtube.com/watch?v=pyKvcNocdrQ)
+- [Cole Train - Evolution Video](https://www.youtube.com/watch?v=Ukh0WMLkuZs)
 - **Discussion Nine**
 
 ### Week Twelve: Imagining Gamers Future (Opens Monday, November 13)
 
 - *Intersectional Tech*: Second Half
+- [Lester - Grand Theft Auto - Playthrough](https://www.youtube.com/watch?v=hKp9_Ih9sJ4)
+- [Far Cry New Dawn - Playthrough](https://www.youtube.com/watch?v=LImMXO0imTs)
+- [Black Flag - Freedom Cry - Playthrough](https://www.youtube.com/watch?v=vFYQb-dFpG0)
 - **Discussion Ten**
 
 ### Week Thirteen: Environmental Play (Opens Monday, November 20)
 
-- Reduced content week for holiday break
+- Reduced content week - no discussion! Enjoy the holiday!
 - *Playing Nature*: First Half
+- [Firewatch - Playthrough](https://www.youtube.com/watch?v=gyKg7xmVIKw)
+- [Elder Scrolls IV: Oblivion - Playthrough](https://www.youtube.com/watch?v=LM1IwZdpL2Y)
 
 ### Week Fourteen: Play in the Anthropocene (Opens Monday, November 26)
 
 - *Playing Nature*: Second Half
-- 
+- [Stardew Valley - 100 days Playthrough](https://www.youtube.com/watch?v=rweAP2PTGgI)
+- [Evolution of SimCity Disasters - Video](https://www.youtube.com/watch?v=9GVNMMpiMR4)
+- [Tour of an Eco Society - Video](https://www.youtube.com/watch?v=DKX34ULV7Ps)
+
 ### Week Fifteen: Final Paper (Submit by Friday, December 8th)
 
 All work (including extensions granted throughout the semester) is due by the close of classes on Friday, December 8th. Any work submitted after that time must be part of an approved incomplete. Note that incompletes will not be approved with more than two missing assignments, and must be completed within six months of the close fo the semester.
