@@ -28,11 +28,11 @@
     - [Week Nine: Poetics (Opens Monday, October 16)](#week-nine-poetics-opens-monday-october-16)
     - [Week Ten: Auteurs (Opens Monday, October 23)](#week-ten-auteurs-opens-monday-october-23)
     - [Week Eleven: (re)generation (Opens Monday, October 30)](#week-eleven-regeneration-opens-monday-october-30)
-    - [Week Eleven: Players - Gamers (Opens Monday, November 6)](#week-eleven-players---gamers-opens-monday-november-6)
-    - [Week Twelve: Imagining Gamers Future (Opens Monday, November 13)](#week-twelve-imagining-gamers-future-opens-monday-november-13)
-    - [Week Thirteen: Environmental Play (Opens Monday, November 20)](#week-thirteen-environmental-play-opens-monday-november-20)
-    - [Week Fourteen: Play in the Anthropocene (Opens Monday, November 26)](#week-fourteen-play-in-the-anthropocene-opens-monday-november-26)
-    - [Week Fifteen: Final Paper (Submit by Friday, December 8th)](#week-fifteen-final-paper-submit-by-friday-december-8th)
+    - [Week Twelve: Players - Gamers (Opens Monday, November 6)](#week-twelve-players---gamers-opens-monday-november-6)
+    - [Week Thirteen: Imagining Gamers Future (Opens Monday, November 13)](#week-thirteen-imagining-gamers-future-opens-monday-november-13)
+    - [Week Fourteen: Environmental Play (Opens Monday, November 20)](#week-fourteen-environmental-play-opens-monday-november-20)
+    - [Week Fifteen: Play in the Anthropocene (Opens Monday, November 26)](#week-fifteen-play-in-the-anthropocene-opens-monday-november-26)
+    - [Finals Week: Final Paper (Submit by Friday, December 8th)](#finals-week-final-paper-submit-by-friday-december-8th)
   - [General Policies](#general-policies)
     - [Academic Integrity](#academic-integrity)
     - [Responses to Academic Dishonesty, Plagiarism, or Cheating](#responses-to-academic-dishonesty-plagiarism-or-cheating)
@@ -243,7 +243,7 @@ This course uses an asynchronous format, and relies upon students to complete al
 - [The Under Presents](https://www.youtube.com/watch?v=fSQD8DBLODE)
 - **Due: Paper Draft (Sunday, November 5th)**
 
-### Week Eleven: Players - Gamers (Opens Monday, November 6)
+### Week Twelve: Players - Gamers (Opens Monday, November 6)
 
 - *Intersectional Tech*: First Half
 - [Dead Island - Playthrough](https://www.youtube.com/watch?v=7Yi7rIrc93U)
@@ -251,7 +251,7 @@ This course uses an asynchronous format, and relies upon students to complete al
 - [Cole Train - Evolution Video](https://www.youtube.com/watch?v=Ukh0WMLkuZs)
 - **Discussion Nine**
 
-### Week Twelve: Imagining Gamers Future (Opens Monday, November 13)
+### Week Thirteen: Imagining Gamers Future (Opens Monday, November 13)
 
 - *Intersectional Tech*: Second Half
 - [Lester - Grand Theft Auto - Playthrough](https://www.youtube.com/watch?v=hKp9_Ih9sJ4)
@@ -259,21 +259,21 @@ This course uses an asynchronous format, and relies upon students to complete al
 - [Black Flag - Freedom Cry - Playthrough](https://www.youtube.com/watch?v=vFYQb-dFpG0)
 - **Discussion Ten**
 
-### Week Thirteen: Environmental Play (Opens Monday, November 20)
+### Week Fourteen: Environmental Play (Opens Monday, November 20)
 
 - Reduced content week - no discussion! Enjoy the holiday!
 - *Playing Nature*: First Half
 - [Firewatch - Playthrough](https://www.youtube.com/watch?v=gyKg7xmVIKw)
 - [Elder Scrolls IV: Oblivion - Playthrough](https://www.youtube.com/watch?v=LM1IwZdpL2Y)
 
-### Week Fourteen: Play in the Anthropocene (Opens Monday, November 26)
+### Week Fifteen: Play in the Anthropocene (Opens Monday, November 26)
 
 - *Playing Nature*: Second Half
 - [Stardew Valley - 100 days Playthrough](https://www.youtube.com/watch?v=rweAP2PTGgI)
 - [Evolution of SimCity Disasters - Video](https://www.youtube.com/watch?v=9GVNMMpiMR4)
 - [Tour of an Eco Society - Video](https://www.youtube.com/watch?v=DKX34ULV7Ps)
 
-### Week Fifteen: Final Paper (Submit by Friday, December 8th)
+### Finals Week: Final Paper (Submit by Friday, December 8th)
 
 All work (including extensions granted throughout the semester) is due by the close of classes on Friday, December 8th. Any work submitted after that time must be part of an approved incomplete. Note that incompletes will not be approved with more than two missing assignments, and must be completed within six months of the close fo the semester.
 
