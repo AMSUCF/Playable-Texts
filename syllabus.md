@@ -32,7 +32,7 @@
     - [Week Thirteen: Imagining Gamers Future (Opens Monday, November 13)](#week-thirteen-imagining-gamers-future-opens-monday-november-13)
     - [Week Fourteen: Environmental Play (Opens Monday, November 20)](#week-fourteen-environmental-play-opens-monday-november-20)
     - [Week Fifteen: Play in the Anthropocene (Opens Monday, November 26)](#week-fifteen-play-in-the-anthropocene-opens-monday-november-26)
-    - [Finals Week: Final Paper (Submit by Friday, December 8th)](#finals-week-final-paper-submit-by-friday-december-8th)
+    - [Finals Week: Revision Memo (Submit by Friday, December 8th)](#finals-week-revision-memo-submit-by-friday-december-8th)
   - [General Policies](#general-policies)
     - [Academic Integrity](#academic-integrity)
     - [Responses to Academic Dishonesty, Plagiarism, or Cheating](#responses-to-academic-dishonesty-plagiarism-or-cheating)
@@ -212,7 +212,7 @@ This course uses an asynchronous format, and relies upon students to complete al
 - [3-Fold Games, *Before I Forget*](https://www.youtube.com/watch?v=MdmRb-3wkAg)
 - [Gareth Schott, "Contemplating Life and Death..."](https://researchcommons.waikato.ac.nz/bitstream/handle/10289/11325/30_DIGRA2017_FP_Schott_Dragon_Cancer1.pdf?isAllowed=y&sequence=2)
 - Guest Lecture: Chloe Milligan
-- **Due: Literature Review (Sunday, October 15th)**
+- **No Discussion: Work on Literature Review!**
 
 ### Week Nine: Poetics (Opens Monday, October 16)
 
@@ -223,7 +223,7 @@ This course uses an asynchronous format, and relies upon students to complete al
 - Nick Montfort, Riddle Machines (PDF)
 - [Explore: IFComp](https://ifcomp.org/)
 - Guest Lecture: John Murray
-- **Discussion Seven**
+- **Due: Literature Review (Sunday, October 22nd)**
 
 ### Week Ten: Auteurs (Opens Monday, October 23)
 
@@ -233,7 +233,7 @@ This course uses an asynchronous format, and relies upon students to complete al
 - [Rebecca Lipperini, "This is the Fate I Choose"](http://www.firstpersonscholar.com/this-is-the-fate-i-choose-how-a-shakespeare-hating-game-developer-made-the-best-shakespeare-adaptation-ive-seen-all-year/)
 - [Elsinore](https://www.youtube.com/watch?v=y6rMdih6ljA)
 - Guest Lecture: Melissa Kagen
-- **Discussion Eight**
+- **Discussion Seven**
 
 ### Week Eleven: (re)generation (Opens Monday, October 30)
 
@@ -241,7 +241,7 @@ This course uses an asynchronous format, and relies upon students to complete al
 - [Alex Saum-Pascual, "Digital Creativity as Critical Material Thinking"](https://electronicbookreview.com/essay/digital-creativity-as-critical-material-thinking-the-disruptive-potential-of-electronic-literature/)
 - [Lai-Tze Fan and Caitlin Fisher, "A Snap of the Universe"](https://electronicbookreview.com/essay/a-snap-of-the-universe-digital-storytelling-as-in-conversation-with-caitlin-fisher/)
 - [The Under Presents](https://www.youtube.com/watch?v=fSQD8DBLODE)
-- **Due: Paper Draft (Sunday, November 5th)**
+- **Discussion Eight**
 
 ### Week Twelve: Players - Gamers (Opens Monday, November 6)
 
@@ -257,7 +257,7 @@ This course uses an asynchronous format, and relies upon students to complete al
 - [Lester - Grand Theft Auto - Playthrough](https://www.youtube.com/watch?v=hKp9_Ih9sJ4)
 - [Far Cry New Dawn - Playthrough](https://www.youtube.com/watch?v=LImMXO0imTs)
 - [Black Flag - Freedom Cry - Playthrough](https://www.youtube.com/watch?v=vFYQb-dFpG0)
-- **Discussion Ten**
+- **Due: Paper Draft (Sunday, November 5th)**
 
 ### Week Fourteen: Environmental Play (Opens Monday, November 20)
 
@@ -265,6 +265,7 @@ This course uses an asynchronous format, and relies upon students to complete al
 - *Playing Nature*: First Half
 - [Firewatch - Playthrough](https://www.youtube.com/watch?v=gyKg7xmVIKw)
 - [Elder Scrolls IV: Oblivion - Playthrough](https://www.youtube.com/watch?v=LM1IwZdpL2Y)
+- **Discussion Ten**
 
 ### Week Fifteen: Play in the Anthropocene (Opens Monday, November 26)
 
@@ -272,12 +273,13 @@ This course uses an asynchronous format, and relies upon students to complete al
 - [Stardew Valley - 100 days Playthrough](https://www.youtube.com/watch?v=rweAP2PTGgI)
 - [Evolution of SimCity Disasters - Video](https://www.youtube.com/watch?v=9GVNMMpiMR4)
 - [Tour of an Eco Society - Video](https://www.youtube.com/watch?v=DKX34ULV7Ps)
+- **No Discussion - finish your memo!**
 
-### Finals Week: Final Paper (Submit by Friday, December 8th)
+### Finals Week: Revision Memo (Submit by Friday, December 8th)
 
 All work (including extensions granted throughout the semester) is due by the close of classes on Friday, December 8th. Any work submitted after that time must be part of an approved incomplete. Note that incompletes will not be approved with more than two missing assignments, and must be completed within six months of the close fo the semester.
 
-- **Due: Final Paper! Class ends Friday, December 8th!**
+- **Due: Revision Meo! Class ends Friday, December 8th!**
 
 ---
 
