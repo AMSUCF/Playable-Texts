@@ -279,7 +279,7 @@ This course uses an asynchronous format, and relies upon students to complete al
 
 All work (including extensions granted throughout the semester) is due by the close of classes on Friday, December 8th. Any work submitted after that time must be part of an approved incomplete. Note that incompletes will not be approved with more than two missing assignments, and must be completed within six months of the close fo the semester.
 
-- **Due: Revision Meo! Class ends Friday, December 8th!**
+- **Due: Revision Memo! Class ends Friday, December 8th!**
 
 ---
 
