@@ -30,7 +30,7 @@
     - [Week Eleven: (re)generation (Opens Monday, October 30)](#week-eleven-regeneration-opens-monday-october-30)
     - [Week Twelve: Players - Gamers (Opens Monday, November 6)](#week-twelve-players---gamers-opens-monday-november-6)
     - [Week Thirteen: Imagining Gamers Future (Opens Monday, November 13)](#week-thirteen-imagining-gamers-future-opens-monday-november-13)
-    - [Week Fourteen: Environmental Play (Opens Monday, November 20)](#week-fourteen-environmental-play-opens-monday-november-20)
+    - [Week Fourteen: Environmental Play (Opens Monday, November 21)](#week-fourteen-environmental-play-opens-monday-november-21)
     - [Week Fifteen: Play in the Anthropocene (Opens Monday, November 26)](#week-fifteen-play-in-the-anthropocene-opens-monday-november-26)
     - [Finals Week: Revision Memo (Submit by Friday, December 8th)](#finals-week-revision-memo-submit-by-friday-december-8th)
   - [General Policies](#general-policies)
@@ -103,8 +103,8 @@ Supplementary recommended readings are included in each module to guide work tow
 | 5  | **Activity Verification** - Complete the brief survey posted on Webcourses as soon as possible to confirm your enrollment in the course. As this is required by the university, please attend to it as soon as possible at the start of classes. | Friday, August 25th  |
 | 45  | **Discussions** - Ten weekly discussions will consist of sharing preliminary readings and arguments, as well as progress towards the final paper. Students are encouraged to use screenshots from the works under discussion. There will be no required discussions on weeks with large project deadlines: each discussion is worth 5 points, and the lowest discussion grade will be dropped, allowing for one missed week. | Weekly |
 | 10 | **Traversal** - Using the methodology of the *Pathfinders* project, record a short (generally 4-5 minute) traversal critiquing a selected playable text. The selected work will ideally be one of the pieces the student has chosen to analyze for their research paper. | Sunday, September 24th  |
-| 10  |  **Literature Review** - Following the selection of a playable text or texts for the final project, students will develop a literature review to become familiar with the discussion of the work and its genre. Plan to gather at least five additional scholarly sources, and two blogs or reviews, to complete a literature review for the final analysis paper. Students are encouraged to use Zotero to manage their works cited efficiently. | Sunday, October 22nd  |
-| 20  |  **Paper or Webtext Draft** - An approximately 4,000 word draft of a final paper or webtext analyzing a playable text or set of texts, chosen in consulation with the professor, and building from the annotation and literature review. Students should follow the formatting guidelines of their chosen venue, including citation requirements. | Sunday, November 19th  |
+| 10  |  **Literature Review** - Following the selection of a playable text or texts for the final project, students will develop a literature review to become familiar with the discussion of the work and its genre. Plan to gather at least five additional scholarly sources, and two blogs or reviews, to complete a literature review for the final analysis paper. Students are encouraged to use Zotero to manage their works cited efficiently. | Sunday, October 29th  |
+| 20  |  **Paper or Webtext Draft** - An approximately 4,000 word draft of a final paper or webtext analyzing a playable text or set of texts, chosen in consulation with the professor, and building from the annotation and literature review. Students should follow the formatting guidelines of their chosen venue, including citation requirements. | Sunday, November 20th  |
 | 10 |  **Final Revision Memo** - Provide a plan for a substantial article or webtext revision, responsive to the feedback recieved on the draft submission. This memo should be professionally structured and addressed to the editor of your target journal. | Friday, December 8th  |
 
 Students can access their grades and feedback at any time using the Grade Book function of Webcourses. All assignments will be submitted through Webcourses. Plan on checking the site at least twice a week for updates and assignment information. Grades are calculated out of 100 following a standard letter scale.
@@ -212,7 +212,7 @@ This course uses an asynchronous format, and relies upon students to complete al
 - [3-Fold Games, *Before I Forget*](https://www.youtube.com/watch?v=MdmRb-3wkAg)
 - [Gareth Schott, "Contemplating Life and Death..."](https://researchcommons.waikato.ac.nz/bitstream/handle/10289/11325/30_DIGRA2017_FP_Schott_Dragon_Cancer1.pdf?isAllowed=y&sequence=2)
 - Guest Lecture: Chloe Milligan
-- **No Discussion: Work on Literature Review!**
+- **Discussion Seven**
 
 ### Week Nine: Poetics (Opens Monday, October 16)
 
@@ -223,7 +223,7 @@ This course uses an asynchronous format, and relies upon students to complete al
 - Nick Montfort, Riddle Machines (PDF)
 - [Explore: IFComp](https://ifcomp.org/)
 - Guest Lecture: John Murray
-- **Due: Literature Review (Sunday, October 22nd)**
+- **Discussion Eight**
 
 ### Week Ten: Auteurs (Opens Monday, October 23)
 
@@ -233,7 +233,7 @@ This course uses an asynchronous format, and relies upon students to complete al
 - [Rebecca Lipperini, "This is the Fate I Choose"](http://www.firstpersonscholar.com/this-is-the-fate-i-choose-how-a-shakespeare-hating-game-developer-made-the-best-shakespeare-adaptation-ive-seen-all-year/)
 - [Elsinore](https://www.youtube.com/watch?v=y6rMdih6ljA)
 - Guest Lecture: Melissa Kagen
-- **Discussion Seven**
+- **Due: Literature Review (Sunday, October 29th)**
 
 ### Week Eleven: (re)generation (Opens Monday, October 30)
 
@@ -241,7 +241,7 @@ This course uses an asynchronous format, and relies upon students to complete al
 - [Alex Saum-Pascual, "Digital Creativity as Critical Material Thinking"](https://electronicbookreview.com/essay/digital-creativity-as-critical-material-thinking-the-disruptive-potential-of-electronic-literature/)
 - [Lai-Tze Fan and Caitlin Fisher, "A Snap of the Universe"](https://electronicbookreview.com/essay/a-snap-of-the-universe-digital-storytelling-as-in-conversation-with-caitlin-fisher/)
 - [The Under Presents](https://www.youtube.com/watch?v=fSQD8DBLODE)
-- **Discussion Eight**
+- **Discussion Nine**
 
 ### Week Twelve: Players - Gamers (Opens Monday, November 6)
 
@@ -249,7 +249,7 @@ This course uses an asynchronous format, and relies upon students to complete al
 - [Dead Island - Playthrough](https://www.youtube.com/watch?v=7Yi7rIrc93U)
 - [The Walking Dead - Playthrough](https://www.youtube.com/watch?v=pyKvcNocdrQ)
 - [Cole Train - Evolution Video](https://www.youtube.com/watch?v=Ukh0WMLkuZs)
-- **Discussion Nine**
+- **Discussion Ten**
 
 ### Week Thirteen: Imagining Gamers Future (Opens Monday, November 13)
 
@@ -257,15 +257,14 @@ This course uses an asynchronous format, and relies upon students to complete al
 - [Lester - Grand Theft Auto - Playthrough](https://www.youtube.com/watch?v=hKp9_Ih9sJ4)
 - [Far Cry New Dawn - Playthrough](https://www.youtube.com/watch?v=LImMXO0imTs)
 - [Black Flag - Freedom Cry - Playthrough](https://www.youtube.com/watch?v=vFYQb-dFpG0)
-- **Due: Paper Draft (Sunday, November 5th)**
+- **Due: Paper Draft (Sunday, November 20th)**
 
-### Week Fourteen: Environmental Play (Opens Monday, November 20)
+### Week Fourteen: Environmental Play (Opens Monday, November 21)
 
-- Reduced content week - no discussion! Enjoy the holiday!
+- Reduced content week - enjoy the holiday!
 - *Playing Nature*: First Half
 - [Firewatch - Playthrough](https://www.youtube.com/watch?v=gyKg7xmVIKw)
 - [Elder Scrolls IV: Oblivion - Playthrough](https://www.youtube.com/watch?v=LM1IwZdpL2Y)
-- **Discussion Ten**
 
 ### Week Fifteen: Play in the Anthropocene (Opens Monday, November 26)
 
@@ -273,7 +272,7 @@ This course uses an asynchronous format, and relies upon students to complete al
 - [Stardew Valley - 100 days Playthrough](https://www.youtube.com/watch?v=rweAP2PTGgI)
 - [Evolution of SimCity Disasters - Video](https://www.youtube.com/watch?v=9GVNMMpiMR4)
 - [Tour of an Eco Society - Video](https://www.youtube.com/watch?v=DKX34ULV7Ps)
-- **No Discussion - finish your memo!**
+- **No Discussion - Final deadline for drafts!**
 
 ### Finals Week: Revision Memo (Submit by Friday, December 8th)
 
